@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+# Introducing new-gen task management app 'Tempo'
+
 First, run the development server:
 
 ```bash
