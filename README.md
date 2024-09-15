@@ -2,7 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-# Introducing new-gen task management app 'Tempo'
+# Introducing new-gen task management app 
+## `Tempo` - `Rhythm is your productivity`
 
 First, run the development server:
 
